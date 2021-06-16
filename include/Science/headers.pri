@@ -1,0 +1,5 @@
+SYNCQT.HEADER_FILES = ../../include/Science/science.h
+SYNCQT.HEADER_CLASSES = ../../include/Science/Science
+SYNCQT.PRIVATE_HEADER_FILES =
+SYNCQT.QPA_HEADER_FILES = 
+SYNCQT.INJECTIONS = 
